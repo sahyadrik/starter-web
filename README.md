@@ -1,10 +1,18 @@
-# Starter Web- Repo
+# Starter Web- Project
 
-This is git prioject, which we are using as sample project.
+This is git project, which we are using as sample project.
 
 ## Introduction
-A lot of lecures are already attended
+A lot of lectures are already attended
 
 ## Purpose
 
-This is the famous and one fo the best training course of devops
+This is the famous and one of the best training course of devops
+
+## GIT comparisons
+
+Adding GIT comarisons lecture.
+
+## GITHUB Contect
+
+Comparision with GIT repo
