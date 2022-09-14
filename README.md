@@ -1,7 +1,10 @@
 # Starter Web- Repo
 
-This repository is for showing how Git and GitHub work
+This is git prioject, which we are using as sample project.
+
+## Introduction
+A lot of lecures are already attended
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is the famous and one fo the best training course of devops
