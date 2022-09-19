@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Sahyadri Kotipalli <twitter>
+    Sahyadri Kotipalli
+    sahyadri.kotipalli@gmail.com
+    scotiabank
 
 # THANKS
 
