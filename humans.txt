@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi, I am learning git and currently modifying the file before working on rebase.
+
 # TEAM
 
     Sahyadri Kotipalli
