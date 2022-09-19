@@ -19,4 +19,4 @@ Comparision with GIT repo
 
 ##  Commands
 
-Command is a signal that should be followed as an order from superiors.
+Command is a signal, that should be followed as an order from superiors.
