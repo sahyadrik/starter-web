@@ -9,9 +9,10 @@
 
 # THANKS
 
-    <name>
+    Sahana Yelineni for supporting me in my hard times.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
+    Maschine learning, Google cloud and Python
