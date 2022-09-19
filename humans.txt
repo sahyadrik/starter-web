@@ -8,7 +8,8 @@ Hi, I am learning git and currently modifying the file before working on rebase.
     Sahyadri Kotipalli
     sahyadri.kotipalli@gmail.com
     scotiabank
-    
+    Devops engineer
+    Organizational
 # THANKS
 
     Sahana Yelineni for supporting me in my hard times.
