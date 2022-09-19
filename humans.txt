@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, I am learning git and currently modifying the file before working on rebase.
+I am a seeker not broker. I might learn slow but i wont forget things i learn.
 
 # TEAM
 
