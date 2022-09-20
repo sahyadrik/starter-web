@@ -21,3 +21,4 @@ Adding important notes on git stash
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
     Maschine learning, Google cloud and Python
+	Aws architect and developer
